@@ -1,5 +1,5 @@
 {
-  "name": "Agusbot",
+  "name": "THE_RIFAN",
   "version": "1.0.0",
   "description": "Termux whatsapp bot",
   "main": "index.js",
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AgusAliansyah/vvipbot-wa"
+    "url": "git+https://github.com/The-Rifan/ini-bot"
   },
   "keywords": [
     "K"
   ],
-  "author": "Agusbot",
+  "author": "THE_RIFAN",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AgusAliansyah/vvipbot-wa/issues"
+    "url": "https://github.com/The-Rifan/ini-bot/issues"
   },
-  "homepage": "https://github.com/AgusAliansyah/vvipbot-wa#readme"
+  "homepage": "https://github.com/The-Rifan/ini-bot#readme"
 }
